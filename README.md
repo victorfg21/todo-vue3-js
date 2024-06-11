@@ -1,24 +1,14 @@
-# app
+# Todo Vue 3
 
-## Project setup
-```
-npm install
-```
+Projeto desenvolvido durante o curso de Vue.js 3 do [Tiago Matos](https://github.com/tiagomatosweb) no [Youtube](https://www.youtube.com/playlist?list=PLcoYAcR89n-qTYqfWTGxXMnAvCqY3JF8w).
+## Stack utilizada
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+**Front-end:** Vue 3, Vu, TailwindCSS
 
-### Compiles and minifies for production
-```
-npm run build
-```
+**Back-end:** Json Server
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Aprendizados
+
+Durante o curso foi possível compreender os estados reativos e o ciclo de vida dos componentes, também foi desenvolvido um projeto prático aplicando os conceitos vistos durante o curso com a criação de componentes e aplicado as funcionalidades do Vuex como mutations e actions.
+
